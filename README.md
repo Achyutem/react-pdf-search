@@ -1,6 +1,6 @@
 # Search using React- pdf
 
-### This is a feature update on the work of @wojtekmaj and adding a pdf search funtionality to it.
+### This is a feature update on the work of [@wojtekmaj](https://github.com/wojtekmaj)and adding a pdf search funtionality to it.
 
 React-pdf repo - https://github.com/wojtekmaj/react-pdf
 
